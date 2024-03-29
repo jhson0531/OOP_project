@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhson\\Desktop\\OOP\\OOP_project\\hw_3\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51F3C0C9-33B6-4DC9-9C89-B263864F9631}|Project1\\Project1.vcxproj|C:\\Users\\jhson\\Desktop\\OOP\\OOP_project\\hw_3\\Project1\\Project1\\integration.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51F3C0C9-33B6-4DC9-9C89-B263864F9631}|Project1\\Project1.vcxproj|solutionrelative:Project1\\integration.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C452721-F743-4A10-8441-7CBDC9D70E89}|Project2\\Project2.vcxproj|C:\\Users\\jhson\\Desktop\\OOP\\OOP_project\\hw_3\\Project1\\Project2\\differentiation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C452721-F743-4A10-8441-7CBDC9D70E89}|Project2\\Project2.vcxproj|solutionrelative:Project2\\differentiation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "differentiation.cpp",
+              "DocumentMoniker": "C:\\Users\\jhson\\Desktop\\OOP\\OOP_project\\hw_3\\Project1\\Project2\\differentiation.cpp",
+              "RelativeDocumentMoniker": "Project2\\differentiation.cpp",
+              "ToolTip": "C:\\Users\\jhson\\Desktop\\OOP\\OOP_project\\hw_3\\Project1\\Project2\\differentiation.cpp",
+              "RelativeToolTip": "Project2\\differentiation.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-21T12:51:29.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "integration.cpp",
+              "DocumentMoniker": "C:\\Users\\jhson\\Desktop\\OOP\\OOP_project\\hw_3\\Project1\\Project1\\integration.cpp",
+              "RelativeDocumentMoniker": "Project1\\integration.cpp",
+              "ToolTip": "C:\\Users\\jhson\\Desktop\\OOP\\OOP_project\\hw_3\\Project1\\Project1\\integration.cpp",
+              "RelativeToolTip": "Project1\\integration.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T12:35:32.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

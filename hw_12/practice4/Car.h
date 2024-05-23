@@ -5,8 +5,8 @@ public:
 	Car(float, int, float);
 	//virtual  
 	void klaxon(int);
-	void airbag();
-	virtual void setPrice(float);
+	virtual void airbag();
+	void setPrice(float);
 	float getPrice();
 	float speed;
 	void speedChange(float);

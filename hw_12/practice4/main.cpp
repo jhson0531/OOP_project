@@ -7,8 +7,9 @@ using namespace std;
 
 int main() {
 	Car newcar = Car();
-	SUV newSUV = SUV();
-	Motor newMotor = Motor();
+	Car newSUV = SUV();        //SUV newSUV = SUV();
+	Car newMotor = Motor();    //Motor newMotor = Motor();   -> virtual 없이도 자식클래스의 함수가 실행
+	
 
 	cout << "Car airbag deployment : ";
 	newcar.airbag();
